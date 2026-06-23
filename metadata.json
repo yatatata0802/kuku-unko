@@ -1,0 +1,6 @@
+{
+  "name": "うんこ九九ドリル",
+  "description": "うんこマークいっぱいの「うんこドリル」風九九学習アプリ。小学2年生の２学期にむけて、九九を段階的に楽しく覚えられます。順番・バラバラ・力だめし、にがてクリア、ふりがな付きの発音ガイド、うんこシール帳（がんばりカード）を搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
